@@ -2,10 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4; /* Light, neutral tone for contrast */
+    background-color: #D3F1DF; /* Light, neutral tone for contrast */
 }
 header {
-    background-color: #00bfff; /* Vibrant sky blue */
+    background-color: #7E1891; /* Vibrant sky blue */
     color: #ffffff; /* White text for readability */
     padding: 10px;
     text-align: center;
@@ -35,5 +35,5 @@ footer {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #00bfff; /* Border matches the header color */
+    border: 5px solid #D91656; /* Border matches the header color */
 }
