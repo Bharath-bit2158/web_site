@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light, neutral tone for contrast */
+}
+header {
+    background-color: #00bfff; /* Vibrant sky blue */
+    color: #ffffff; /* White text for readability */
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+a {
+    text-decoration: none;
+    color: #ff4500; /* Bright orange-red for standout links */
+}
+a:hover {
+    color: #ff6347; /* Tomato red for hover effect */
+}
+footer {
+    background-color: #ff69b4; /* Vibrant hot pink */
+    color: #ffffff; /* White text for better contrast */
+    text-align: center;
+    padding: 10px 0;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #00bfff; /* Border matches the header color */
+}
